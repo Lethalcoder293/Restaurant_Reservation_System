@@ -1,0 +1,105 @@
+0
+Cheesy Nachos
+2.0
+Nachos with melted cheese
+starter
+1
+Truffle Fries
+3.0
+French fries and truffle
+starter
+2
+Onion Rings
+1.0
+Deep Fried Onions
+starter
+3
+Garlic Bread
+1.0
+Bread baked with garlic dough
+starter
+4
+Margherita
+5.0
+Plain Cheese Pizza with Tomato and Basil
+main
+5
+Hawaiian
+6.0
+Pizza with Chicken Cheese & Pineapple
+main
+6
+Peppy Tofu
+6.0
+Vegan Pizza with Tofu
+main
+7
+Mac & Cheese
+5.0
+Pasta with Cheese
+main
+8
+Vegan Burger
+8.0
+Vegan patty Burger
+main
+9
+Club Sandwich
+8.0
+Sandwich with vegetable stuffings
+main
+10
+Apple Pie
+6.5
+Pie with baked apple
+dessert
+11
+Choco Brownie
+6.5
+cake with choco fudge
+dessert
+12
+Lava cake
+7.5
+Cake with molten centre 
+dessert
+13
+Peach Ice Tea
+2.5
+cold tea
+drinks
+14
+Pinacolada
+4.5
+pineapple drink(virgin)
+drinks
+-1
+0
+0
+4
+14
+-1
+-1
+10.0
+1
+4
+5
+6
+-1
+-1
+15.0
+2
+2
+4
+7
+13
+13
+15.0
+3
+3
+5
+12
+14
+-1
+18.0
+-1

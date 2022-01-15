@@ -1,0 +1,21 @@
+Harsh Rao D
+Male
+1001
+Manager
+Kshitij Parashar
+Male
+1002
+Waiter
+Sanskar D M
+Male
+1003
+Asst Manager
+Benjamin O C M 
+Male
+1004
+Waiter
+Samuel C W M 
+Male
+1005
+Waiter
+-1
