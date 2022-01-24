@@ -3,7 +3,7 @@ A restaurant reservation and point of sale system implemented as a command line 
 ## Authors
 Harsh Rao Dhanyamraju (https://github.com/HarshRaoD)  
 Sanskar Deepak Malavade (https://github.com/Lethalcoder293)  
-Kshitij Parashar (https://github.com/xitij27)
+Kshitij Parashar (https://github.com/xitij27)  
 Benjamin Ong Chee Meng  
 Chng Wei Ming Samuel  
 ## Video Demonstration
